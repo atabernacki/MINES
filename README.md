@@ -1,0 +1,4 @@
+MINES
+=====
+
+Console Minesweeper game
